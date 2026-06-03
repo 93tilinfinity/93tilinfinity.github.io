@@ -5,7 +5,7 @@ permalink: /bio/
 ---
 🤟🏾 I'm Neil. I'm on a mission to make 'compliance' the first department run entirely by agents. Starting in healthcare at [highguard](https://highguard.ai).
 
-Some other facts:
+Some facts:
 * Did almost every role as [Healthtech-1](https://www.healthtech1.uk)'s founding engineer. Made a small dent in the overworked healthcare system in England by writing software to register over 1 million patients at 1,000+ NHS GP surgeries over 2 and a half years. I spent a lot of time on fullstack engineering, built a few algorithms, database management, hiring, cyber security, and the rest.
 * Started a [mini deliveroo](https://www.instagram.com/feed.bucks/) in my local town during Covid using Shopify, Facebook ads and a lot of cold calling.
 * [Reminiscences of a Stock Operator](https://www.trendfollowing.com/whitepaper/Edwin_LeFevre_Reminiscences_of_a_Stock_Operator.pdf) made me decide to become a derivatives trader. Did it for 4 years and then left to write software full time.
