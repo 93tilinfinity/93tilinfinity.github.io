@@ -242,6 +242,18 @@ nav {
 // .main
 //
 
+.posts {
+  // The page container is 75% wide, leaving a ~12.5% gutter on each side.
+  // On mobile, pull the blog list out by half that gutter (6.25% of the
+  // viewport) on each side so its side margins are 50% smaller. The negative
+  // margin is expressed relative to the container's width (75% vw), hence
+  // 6.25 / 75 =~ 8.333%.
+  @include mobile {
+    margin-left: -8.333%;
+    margin-right: -8.333%;
+  }
+}
+
 .posts > .post {
   margin-top: 10px;
   padding-bottom: 0.4em;
